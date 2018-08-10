@@ -1,8 +1,8 @@
 # Hello_World
 supreme potato
 
-Personally, I don't even know why github is called "github" sicne it mostly has to do with coding and project management...
-I mean, is it a hub for gits? And, in which case, what exactly is a git?
+Personally, I don't even know why github is called "github" since it mostly has to do with coding and project management...
+I mean, is it a hub for gits? And, If so, what exactly is a git?
 according to google:
 git
 ɡit/
